@@ -1,0 +1,4 @@
+# Git ignore file
+*.pyc
+__pycache__/
+.env

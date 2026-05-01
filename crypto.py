@@ -1,0 +1,3 @@
+# Cryptography module for password encryption
+
+# Implement your encryption logic here...
